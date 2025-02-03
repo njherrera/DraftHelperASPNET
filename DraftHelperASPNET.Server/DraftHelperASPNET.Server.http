@@ -1,0 +1,6 @@
+@DraftHelperASPNET.Server_HostAddress = http://localhost:5151
+
+GET {{DraftHelperASPNET.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
