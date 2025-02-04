@@ -3,6 +3,11 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+# App Settings JSON files
+DraftHelperASPNet.Server/appsettings.json
+DraftHelperASPNet.Server/appsettings.Development.json
+DraftHelperASPNet.Server/appsettings.*
+
 # User-specific files
 *.rsuser
 *.suo
